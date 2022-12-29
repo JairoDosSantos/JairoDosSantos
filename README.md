@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jairo dos Santos.</h1>
 <h3 align="center">A passionate frontend developer from Angola. I am a final semester engineering student looking for opportunities and collaboration on projects.</h3>
 
-- 🔭 I’m currently working at **PLEPA School**
+- 🔭 I’m currently working at **NOAH CONSTRUCTIONS**
 
 - 🌱 I’m currently learning **GraphQL**
 
